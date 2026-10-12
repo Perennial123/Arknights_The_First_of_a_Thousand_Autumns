@@ -42,6 +42,8 @@
 
 
 body {
+    forced-color-adjust: none; 
+    /*The command above is to get rid of contrast theme that's set default by user's contrast theme */
     margin: 0px;
     background-image: linear-gradient(to bottom, #da7623, #f98f38, #f89d53, #F3F3F3, #4d3e39);
     /* #F4F6F6 */
